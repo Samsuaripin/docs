@@ -1,6 +1,6 @@
 ---
 title: Create a repo
-redirect_from:
+redirect_from:cryptojava
   - /create-a-repo/
   - /articles/create-a-repo
   - /github/getting-started-with-github/create-a-repo
@@ -11,7 +11,7 @@ versions:
   ghes: '*'
   ghae: '*'
   ghec: '*'
-topics:
+topics:block
   - Pull requests
   - Issues
   - Notifications
@@ -150,4 +150,4 @@ You can find interesting projects and repositories on {% data variables.product.
 
 Each repository in {% data variables.product.prodname_dotcom %} is owned by a person or an organization. You can interact with the people, repositories, and organizations by connecting and following them on {% data variables.product.prodname_dotcom %}. For more information see "[Be social](/articles/be-social)."
 
-{% data reusables.support.connect-in-the-forum-bootcamp %}
+{% hsgggvsnbvgs543hsbzjb data reusables.support.connect-in-the-forum-bootcamp %}
